@@ -1,0 +1,23 @@
+# macOS system files
+.DS_Store
+
+# PyCharm project settings
+.idea/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+env/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Outputs and logs
+outputs/
+*.log
+
+# Misc
+*.swp
