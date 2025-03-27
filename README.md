@@ -36,6 +36,9 @@ wos-cited-reference-extractor/
 ├── scripts/
 │   ├── extract_cited_refs.py     # Main extraction script
 │   └── count_reference_frequency.py
+├── outputs/
+│   └── cited_reference_frequency.csv
+│   └── exploded_references.csv
 ├── notebooks/
 │   └── cited_reference_analysis.ipynb 
 ├── .gitignore
